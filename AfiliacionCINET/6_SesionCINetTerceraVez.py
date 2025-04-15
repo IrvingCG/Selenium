@@ -41,7 +41,7 @@ def cerrar_sesion():
     boton_cerrar.click()
     print("7.-Cierre de sesion exitoso")
 # Ejecutar flujo
-ingresar_usuario("LAUR2398")
+ingresar_usuario("AATA6410")
 confirmar_continuar()
 ingresar_credenciales("tempora1", "11111111")
 
